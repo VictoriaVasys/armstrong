@@ -35,3 +35,11 @@ See #ethereum-resources channel for instructions about how to get past the pay w
 [GitHub](https://github.com/dapphub/dappsys)
 
 A collection of building blocks for building smart contract systems
+
+## Emails
+### Current Armstrong Leaders
+Victoria - victoria.vasys@gmail.com
+Chris - me@chrisryansmith.com
+Shayla - shaylarichard@hotmail.com
+
+### Armstrong members
